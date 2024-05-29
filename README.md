@@ -8,5 +8,5 @@ It is important to notice that project doesnt involve symmetrical power supply w
 
 
 ## Project Structure:
-- *Libraries* - this directory keeps custom footprints and schematic libraries
-- *Project Files* - this directory keeps all pcb and schematic files
+- *Libraries* - directory for custom footprints and schematic libraries
+- *Project Files* - directory for all pcb and schematic files
