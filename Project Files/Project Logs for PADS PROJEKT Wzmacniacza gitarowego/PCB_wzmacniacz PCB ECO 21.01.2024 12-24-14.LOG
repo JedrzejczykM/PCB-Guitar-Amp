@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=    NewDesignator=P1
+Added Component: Designator=MTHNP1(MTH NP 3.2mm)
+Added Component: Designator=MTHNP2(MTH NP 3.2mm)
+Added Component: Designator=MTHNP3(MTH NP 3.2mm)
+Added Component: Designator=MTHNP4(MTH NP 3.2mm)
+Added Pin To Net: NetName=GND Pin=MTHNP1-1
+Added Pin To Net: NetName=GND Pin=MTHNP2-1
+Added Pin To Net: NetName=GND Pin=MTHNP3-1
+Added Pin To Net: NetName=GND Pin=MTHNP4-1
+Added Member To Class: ClassName=schemat_wzmacniacz_gitarowy Member=Component MTHNP1 MTHNP3.2mm
+Added Member To Class: ClassName=schemat_wzmacniacz_gitarowy Member=Component MTHNP2 MTHNP3.2mm
+Added Member To Class: ClassName=schemat_wzmacniacz_gitarowy Member=Component MTHNP3 MTHNP3.2mm
+Added Member To Class: ClassName=schemat_wzmacniacz_gitarowy Member=Component MTHNP4 MTHNP3.2mm
+Added Member To Class: ClassName=schemat_wzmacniacz_gitarowy Member=Component P1 Jack 6.3 in
