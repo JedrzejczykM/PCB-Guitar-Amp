@@ -1,6 +1,6 @@
 # PCB Guitar AMP
 
-PCB design for guitar amplifier that i have made during studies. 
+PCB design for guitar amplifier that I have made during studies. 
 <br>
 Its fully functional 8-10W guitar amp with volume, contour, overdrive controls.
 <br>
